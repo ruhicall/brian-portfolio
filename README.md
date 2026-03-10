@@ -28,7 +28,7 @@ A simple website where users can order milk products online.
 ### 🌐 Portfolio Website
 My personal portfolio website showcases my projects.
 
-🔗 https://github.com/YOURUSERNAME/brian-portfolio
+🔗 https://github.com/ruhicall/brian-portfolio
 
 ---
 
